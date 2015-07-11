@@ -19,16 +19,32 @@
 
 ** Attacks are evolving
 
-   * Attacks are getting increasingly common
-   * Advanced attacks
+   * More attacks
+   * More advanced attacks
 
 ** Defense hasn't evolved
 
+   * At least not for most people
    * ~fail2ban~, ~snort~...
+
+** Defense /has/ evolved
+
+   * Tons of vendors (RSA Conference?)
+   * Examining options is a full-time job
 
 ** Increasing demands
 
+   * Modern apps are increasingly complex
+
 ** Decreasing resources
+
+   * Modern apps are increasingly complex
+   * Efforts should focus on your app, not security
+
+** TL;DR
+
+   * SME's don't have the resources
+   * Larger enterprises have better things to do
 
 * What are we doing about it?
 

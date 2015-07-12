@@ -21,6 +21,14 @@
 
    * More attacks
    * More advanced attacks
+   * More visible attacks
+
+** Attack visibility
+
+   "Oh, well, you got lucky an attack /just/ happened"
+
+   Heartland, TJX, RSA, Gawker, Verisign, Target, Sony, Snowden
+   leaks, Heartbleed, Sony some more, OPM...
 
 ** Defense hasn't evolved
 

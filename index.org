@@ -1,6 +1,6 @@
 #+Title: Infosec threat evolution
 #+Author: Jarret Raim & lvh
-#+Email: {jarret.raim,lvh}@rackspace.com
+#+Email:
 
 #+OPTIONS: toc:nil reveal_rolling_links:nil num:nil reveal_history:true
 #+REVEAL_TRANS: linear
@@ -9,11 +9,14 @@
 * Introduction
 ** Who are we?
 ** Jarret Raim
+
+   * ~jarret.raim@rackspace.com~
+
 ** lvh
 
-   * (Laurens Van Houtven)
    * Jarret's minion's minion
    * Cryptographer
+   * ~lvh@rackspace.com~, ~@lvh~
 
 * What's going on?
 

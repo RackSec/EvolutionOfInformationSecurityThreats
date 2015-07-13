@@ -1,4 +1,4 @@
-#+Title: Evolution of Information Security Threats
+#+Title: Infosec threat evolution
 #+Author: Jarret Raim & lvh
 #+Email: {jarret.raim,lvh}@rackspace.com
 

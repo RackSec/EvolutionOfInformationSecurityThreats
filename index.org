@@ -85,7 +85,42 @@
 
 * What are we doing about it?
 
-** Active defense
+** Current portfolio
+
+   * Active defense
+   * Compliance assistance
+   * Multi-factor auth & user management
+   * Log management & analysis
+
+** Active Defense
+
+   * CSOC
+   * Active detection
+   * Threat intelligence
+   * Patch management
+
+** CSOC
+
+   * 3 x 8 security analysts, 24 x 7 x 365
+
+** SIEM
+
+   * (Security information & event management)
+   * Benefit of hosting provider scale:
+     * Correlate across customers
+     * Lots of internal network data
+
+** Compliance assistance
+
+   PCI-DSS, HIPPA
+
+**
+
+** Compliance
+
+   * Compliance as a consequence of security
+   * *Not* compliance for its own sake
+   * "Teach the test"
 
 * Thank you!
 

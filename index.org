@@ -81,6 +81,7 @@
 
    * SME's don't have the resources
    * Larger enterprises have better things to do
+   * Tools are less accessible
 
 * What are we doing about it?
 

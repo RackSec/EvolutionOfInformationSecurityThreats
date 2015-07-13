@@ -67,6 +67,11 @@
 
    * Modern apps are increasingly complex
 
+** Increasing cost of tools
+
+   * Effective monitoring requires 24x7x365 SOC
+   * n dozen security analyst + licenses
+
 ** Decreasing resources
 
    * Modern apps are increasingly complex

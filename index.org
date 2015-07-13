@@ -30,6 +30,26 @@
    Heartland, TJX, RSA, Gawker, Verisign, Target, Sony, Snowden
    leaks, Heartbleed, Sony some more, OPM...
 
+** Why are attacks more prevalent?
+
+** A lot of our technology is insecure
+
+   * Implicitly trust the network
+   * Focused on making it work
+   * Not concerned with security
+   * TCP, SMTP, DNS...
+
+** More information
+
+   * /Many/ more services, store lots of data
+   * Side effect of commodity cloud computing?
+   * PII, payment information, customer data, intellectual property...
+   * If you made money with it, odds are so can an attacker
+
+** Fundamentally just market economics
+
+   If revenue > cost, someone is going to do it
+
 ** Defense hasn't evolved
 
    * At least not for most people

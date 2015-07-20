@@ -33,10 +33,12 @@
 
 ** Attack visibility
 
-   "Oh, well, you got lucky an attack /just/ happened"
+   "You got lucky an attack just happened"
 
    Heartland, TJX, RSA, Gawker, Verisign, Target, Sony, Snowden
-   leaks, Heartbleed, Sony some more, OPM...
+   leaks, Heartbleed, Sony again, OPM...
+
+   There's always another attack.
 
 ** Why are attacks more prevalent?
 
@@ -49,9 +51,9 @@
 
 ** More information
 
-   * /Many/ more services, store lots of data
+   * More services, lots of data
    * Side effect of commodity cloud computing?
-   * PII, payment information, customer data, intellectual property...
+   * PII, customer data, IP...
    * If you made money with it, odds are so can an attacker
 
 ** Market economics
@@ -74,7 +76,7 @@
 
 ** Increasing cost of tools
 
-   * Effective monitoring requires 24x7x365 SOC
+   * Effective monitoring is 24x7x365
    * /n/ analyst salaries, licenses
 
 ** Decreasing resources

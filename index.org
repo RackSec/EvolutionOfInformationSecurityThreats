@@ -90,7 +90,7 @@
    * Larger enterprises have better things to do
    * Tools are less accessible
 
-* What are we doing about it?
+* How are we helping?
 
 ** Current open source
 

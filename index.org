@@ -40,7 +40,7 @@
 
 ** Why are attacks more prevalent?
 
-** A lot of our technology is insecure
+** Insecure foundations
 
    * Implicitly trust the network
    * Focused on making it work
@@ -54,7 +54,7 @@
    * PII, payment information, customer data, intellectual property...
    * If you made money with it, odds are so can an attacker
 
-** Fundamentally just market economics
+** Market economics
 
    If revenue > cost, someone is going to do it
 

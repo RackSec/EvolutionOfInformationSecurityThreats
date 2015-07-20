@@ -155,6 +155,18 @@
    * /Not/ "teach the test" compliance
    * Largely possible because specs are saner
 
+** Secret goal
+
+   1. Get revenue
+   2. ???
+   3. PROFIT!!!
+
+** Secret goal
+
+   1. Get revenue
+   2. /More open source/
+   3. PROFIT!!!
+
 * Thank you!
 
 * Questions?

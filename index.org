@@ -47,7 +47,7 @@
    * Implicitly trust the network
    * Focused on making it work
    * Not concerned with security
-   * TCP, SMTP, DNS...
+   * ARP, BGP, TCP, SMTP, DNS...
 
 ** More information
 

@@ -35,8 +35,8 @@
 
    "You got lucky an attack just happened"
 
-   Heartland, TJX, RSA, Gawker, Verisign, Target, Sony, Snowden
-   leaks, Heartbleed, Sony again, OPM...
+   Heartland, TJX, RSA, Gawker, Verisign, Target, Sony, Snowden leaks,
+   Heartbleed, Sony again, Superfish, OPM...
 
    There's always another attack.
 

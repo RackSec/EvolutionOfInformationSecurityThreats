@@ -108,13 +108,13 @@
 
 ** CSOC
 
-   (Customer Security Operations Center)
+   Customer Security Operations Center
 
    3 x 8 security analysts, 24 x 7 x 365
 
 ** SIEM
 
-   (Security Information & Event Management)
+   Security Information & Event Management
 
    * Benefit of hosting provider scale:
      * Correlate across customers

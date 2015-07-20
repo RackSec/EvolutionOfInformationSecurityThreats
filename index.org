@@ -101,7 +101,9 @@
 
 ** CSOC
 
-   * 3 x 8 security analysts, 24 x 7 x 365
+   (Customer Security Operations Center)
+
+   3 x 8 security analysts, 24 x 7 x 365
 
 ** SIEM
 

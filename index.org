@@ -71,7 +71,7 @@
 
 ** Increasing demands
 
-   * Modern apps are increasingly complex
+   Modern apps are increasingly complex
 
 ** Increasing cost of tools
 
@@ -86,7 +86,7 @@
 ** TL;DR
 
    * SME's don't have the resources
-   * Larger enterprises have better things to do
+   * All companies have better things to do
    * Tools are less accessible
 
 * How are we helping?

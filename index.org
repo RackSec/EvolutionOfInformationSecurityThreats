@@ -52,9 +52,8 @@
 ** More information
 
    * More services, lots of data
-   * Side effect of commodity cloud computing?
+   * Huge success of cloud computing
    * PII, customer data, IP...
-   * If you made money with it, odds are so can an attacker
 
 ** Market economics
 

@@ -18,6 +18,11 @@
    * Cryptographer
    * ~lvh@rackspace.com~, ~@lvh~
 
+** Rackspace
+
+   #+ATTR_HTML: :style width:60%
+   [[./media/Rackspace.svg]]
+
 * What's going on?
 
 ** Attacks are evolving

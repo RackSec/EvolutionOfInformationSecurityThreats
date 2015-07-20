@@ -96,8 +96,8 @@
 
    * Active defense
    * Compliance assistance
-   * Multi-factor auth & user management
-   * Log management & analysis
+   * User management, MFA
+   * Log analysis
 
 ** Active Defense
 

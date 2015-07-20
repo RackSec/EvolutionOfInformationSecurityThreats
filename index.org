@@ -75,7 +75,7 @@
 ** Increasing cost of tools
 
    * Effective monitoring requires 24x7x365 SOC
-   * n dozen security analyst + licenses
+   * /n/ analyst salaries, licenses
 
 ** Decreasing resources
 

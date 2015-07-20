@@ -121,8 +121,6 @@
 
    PCI-DSS, HIPPA
 
-**
-
 ** Compliance
 
    * Compliance as a consequence of security

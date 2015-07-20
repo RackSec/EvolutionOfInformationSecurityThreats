@@ -127,8 +127,8 @@
 ** Compliance
 
    * Compliance as a consequence of security
-   * *Not* compliance for its own sake
-   * "Teach the test"
+   * /Not/ "teach the test" compliance
+   * Largely possible because specs are saner
 
 * Thank you!
 

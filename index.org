@@ -28,8 +28,8 @@
 ** Attacks are evolving
 
    * More attacks
-   * More advanced attacks
-   * More visible attacks
+   * More advanced
+   * More visible
 
 ** Attack visibility
 

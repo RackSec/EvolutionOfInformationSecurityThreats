@@ -114,7 +114,8 @@
 
 ** SIEM
 
-   * (Security information & event management)
+   (Security Information & Event Management)
+
    * Benefit of hosting provider scale:
      * Correlate across customers
      * Lots of internal network data

@@ -92,6 +92,31 @@
 
 * What are we doing about it?
 
+** Current open source
+
+   Rackspace created/sponsored:
+
+   * PyCA (Python Cryptographic Authority)
+   * ~pip~ TLS improvements
+   * Python stdlib TLS improvements
+
+** Great, but not enough
+
+   Doesn't help if:
+
+   * your box is rooted,
+   * your auth scheme is full of holes,
+   * your TLS configuration is broken,
+   * ...
+
+** Rackspace Managed Security
+
+   [[./media/RMSLogoWithTextmarkLight.png]]
+
+** Mission
+
+   Customer-facing security services
+
 ** Current portfolio
 
    * Active defense

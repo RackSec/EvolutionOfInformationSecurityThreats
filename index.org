@@ -10,6 +10,7 @@
 ** Who are we?
 ** Jarret Raim
 
+   * Leader of Rackspace Managed Security
    * ~jarret.raim@rackspace.com~
 
 ** lvh

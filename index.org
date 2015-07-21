@@ -108,7 +108,9 @@
 
 ** Active Defense
 
-   Security-as-a-service backed by Rackspace's 24 x 7 x 365 CSOC
+   Security-as-a-service
+
+   Backed by 24 x 7 x 365 CSOC
 
 ** CSOC
 

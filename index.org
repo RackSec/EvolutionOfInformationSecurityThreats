@@ -76,7 +76,7 @@
 ** Increasing cost of tools
 
    * Effective monitoring is 24x7x365
-   * /n/ analyst salaries, licenses
+   * /n/ analyst salaries, equipment, licenses
 
 ** Decreasing resources
 

@@ -31,23 +31,15 @@
    * More advanced
    * More visible
 
-** Attack visibility
+** APT
 
-   "You got lucky an attack just happened"
+   Advanced Persistent Threat
 
-   Heartland, TJX, RSA, Gawker, Verisign, Target, Sony, Snowden leaks,
-   Heartbleed, Sony again, Superfish, OPM...
-
-   There's always another attack.
+   * Human-driven
+   * Reactive and ongoing
+   * Targeted
 
 ** Why are attacks more prevalent?
-
-** Insecure foundations
-
-   * Implicitly trust the network
-   * Focused on making it work
-   * Not concerned with security
-   * ARP, BGP, TCP, SMTP, DNS...
 
 ** More information
 
@@ -55,33 +47,24 @@
    * Huge success of cloud computing
    * PII, customer data, IP...
 
-** Market economics
+** Attacks have evolved
 
-   If revenue > cost, someone is going to do it
+   * State-level funding
+   * Robust exploit market
+   * Market specialization
+   * Revenue > cost, low risk
 
-** Defense hasn't evolved
+** The security poverty line
 
-   * At least not for most people
-   * ~fail2ban~, ~snort~...
-
-** Defense /has/ evolved
-
+   * Most organizations can't afford security
+   * Lack of specialized talent
    * Tons of vendors (RSA Conference?)
-   * Examining options is a full-time job
+     * Examining options is a full-time job
 
-** Increasing demands
-
-   Modern apps are increasingly complex
-
-** Increasing cost of tools
+** Increasing cost of defense
 
    * Effective monitoring is 24x7x365
    * /n/ analyst salaries, equipment, licenses
-
-** Decreasing resources
-
-   * Modern apps are increasingly complex
-   * Efforts should focus on your app, not security
 
 ** TL;DR
 
@@ -98,6 +81,7 @@
    * PyCA (Python Cryptographic Authority)
    * ~pip~ TLS improvements
    * Python stdlib TLS improvements
+   * ...
 
 ** Great, but not enough
 
@@ -108,7 +92,7 @@
    * your TLS configuration is broken,
    * ...
 
-** Rackspace Managed Security
+** 　
 
    [[./media/RMSLogoWithTextmarkLight.png]]
 
@@ -116,19 +100,14 @@
 
    Customer-facing security services
 
-** Current portfolio
+** Current services
 
    * Active defense
    * Compliance assistance
-   * User management, MFA
-   * Log analysis
 
 ** Active Defense
 
-   * CSOC
-   * Active detection
-   * Threat intelligence
-   * Patch management
+   Security-as-a-service backed by Rackspace's 24 x 7 x 365 CSOC
 
 ** CSOC
 
@@ -136,13 +115,12 @@
 
    3 x 8 security analysts, 24 x 7 x 365
 
-** SIEM
+** Analytics platform
 
-   Security Information & Event Management
+   Benefit of hosting provider scale:
 
-   * Benefit of hosting provider scale:
-     * Correlate across customers
-     * Lots of internal network data
+   * Correlate across customers
+   * Lots of internal network data
 
 ** Compliance assistance
 
@@ -153,18 +131,6 @@
    * Compliance as a consequence of security
    * /Not/ "teach the test" compliance
    * Largely possible because specs are saner
-
-** Secret goal
-
-   1. Get revenue
-   2. ???
-   3. PROFIT!!!
-
-** Secret goal
-
-   1. Get revenue
-   2. /More open source/
-   3. PROFIT!!!
 
 * Thank you!
 

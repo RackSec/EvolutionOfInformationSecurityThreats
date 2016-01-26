@@ -8,7 +8,6 @@
 
 * Introduction
 ** Who are we?
-** Paul Kehrer
 
    * Principal Engineers
    * Infosec & crypto

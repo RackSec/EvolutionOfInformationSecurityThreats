@@ -98,10 +98,10 @@
 
 ** Current services
 
-   * Active defense
+   * Managed security
    * Compliance assistance
 
-** Active Defense
+** Managed security
 
    Security-as-a-service
 
